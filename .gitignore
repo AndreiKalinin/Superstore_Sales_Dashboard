@@ -1,0 +1,6 @@
+share/*
+lib/*
+etc/*
+bin/*
+.idea/*
+*.cfg
